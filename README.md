@@ -1,3 +1,3 @@
 # Adball-Online
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/adsense-y5cedv)
+[Edit on StackBlitz ⚡️](https://adball-online.web.app)
